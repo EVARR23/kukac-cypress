@@ -21,7 +21,6 @@ Obs: Certifique-se de ter o Node.js e o npm instalados. Você pode baixar aqui.
 
 🚀 Como rodar o projeto
 Abrir Cypress:
-bash
 Copiar
 npx cypress open
 Isso vai abrir o Cypress Test Runner, onde você pode executar os testes interativamente.
