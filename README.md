@@ -8,6 +8,7 @@ Este é um projeto de testes E2E do Kanban usando Cypress.
 ```bash
 git clone https://github.com/SEU_USUARIO/kukac-cypress.git
 
+```bash
 2. Entre no diretório do projeto:
 
 bash
