@@ -6,8 +6,7 @@ Este é um projeto de testes E2E do Kanban usando Cypress.
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/kukac-cypress.git
-
+git clone https://github.com/EVARR23/kukac-cypress.git
 2. Entre no diretório do projeto:
 
 Copiar
