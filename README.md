@@ -25,6 +25,6 @@ Copiar
 npx cypress open
 Isso vai abrir o Cypress Test Runner, onde você pode executar os testes interativamente.
 
-Rodar os testes no modo headless:
+Rodar os testes:
 
 npx cypress run
